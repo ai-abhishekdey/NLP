@@ -1,0 +1,28 @@
+[
+  {
+    "country": "India",
+    "capital": "New Delhi",
+    "national_language": "Hindi"
+  },
+  {
+    "country": "France",
+    "capital": "Paris",
+    "national_language": "French"
+  },
+  {
+    "country": "Japan",
+    "capital": "Tokyo",
+    "national_language": "Japanese"
+  },
+  {
+    "country": "Brazil",
+    "capital": "Brasília",
+    "national_language": "Portuguese"
+  },
+  {
+    "country": "Egypt",
+    "capital": "Cairo",
+    "national_language": "Arabic"
+  }
+]
+

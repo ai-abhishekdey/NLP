@@ -20,3 +20,5 @@
 
 7. [Word2Vec - using Gensim](7_word2vec.ipynb)
 
+8. [Read textual data from multiple files (.txt, .pdf, .md, .json, .csv)](8_read_textual_data.ipynb)
+
