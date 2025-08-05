@@ -1,0 +1,13 @@
+numpy==1.26.4
+scipy>=1.10
+nltk>=3.8
+spacy>=3.7
+emoji
+contractions
+ipykernel
+pandas
+textacy
+transformers
+scikit-learn
+gensim
+matplotlib
